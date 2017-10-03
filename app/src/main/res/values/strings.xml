@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Frozen Fitness Gourmet</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_login">Frozen Fitness Gourmet</string>
+    <string name="pendente">Pendente</string>
+    <string name="historico">Historico</string>
+    <string name="title_activity_detalhes">Detalhes do Pedido</string>
+    <string name="link">http://www.smartgourmet.com.br</string>
+    <string name="title_activity_detalhes_entrega">Entregar pedido</string>
+    <string name="title_activity_maps">Localização</string>
+
+</resources>
